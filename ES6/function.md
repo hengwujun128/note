@@ -74,7 +74,7 @@ console.log(typeof doSomething) // 'function'
 
 ## 4.箭头函数
 
-> 1.箭头函数与普通函数的区别
+> 1.箭头函数与普通函数的区别(4)
 
 * 没有 this,super,arguments,newTarget 绑定
 * 不能通过 new 关键字调用(没有[[construct]]方法)
