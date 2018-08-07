@@ -1,0 +1,19 @@
+```
+git config --list
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+http.sslcainfo=E:/editor/git/path/Git/mingw64/ssl/certs/ca-bundle.crt
+diff.astextplain.textconv=astextplain
+rebase.autosquash=true
+user.name=ZWX544198
+user.email=hengwujun128@gmail.com
+http.sslverify=false
+http.proxy=http://zwx544198:!%4012qwQW@proxyhk.huawei.com:8080
+https.proxy=https://zwx544198:4012qwQW@proxyhk.huawei.com:8080
+```
