@@ -2,6 +2,7 @@
 
 - 字符串 substr,substring,slice 有什么区别?
 - reduce()?
+- splice()
 - Do you know frontEnd storage? what is the difference between cookie and localstorage?
 - 事件代理，事件委托
 - 浏览器缓存
